@@ -1,2 +1,2 @@
 # PathFinder
-## go to the subdirectory under PathFinder dir
+## go to the subdirectory under parent dir
